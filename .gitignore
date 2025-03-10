@@ -1,0 +1,45 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you're using them)
+.venv/
+venv/
+env/
+
+# Ignore PyCharm IDE files (VERY IMPORTANT)
+.idea/
+
+# OS generated files (Windows)
+Thumbs.db
+Desktop.ini
+
+# OS generated files (macOS)
+.DS_Store
+
+# Ignore specific Jupyter Notebooks (temporarily)
+cases/mini_case_1.ipynb
+cases/mini_case_2.ipynb
+cases/mini_case_3.ipynb
+cases/mini_case_4.ipynb
+case_options.ipynb
+problem_sets/problem_set_1.ipynb
+problem_sets/problem_set_2.ipynb
+problem_sets/problem_set_3.ipynb
+problem_sets/problem_set_4.ipynb
+problem_sets/problem_set_5.ipynb
+
+
+# Always ignore Jupyter checkpoints
+.ipynb_checkpoints/
